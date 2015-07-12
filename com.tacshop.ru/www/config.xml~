@@ -12,7 +12,7 @@
     <gap:plugin name="org.apache.cordova.inappbrowser" />
     <gap:plugin name="de.appplant.cordova.plugin.email-composer" />
     <gap:plugin name="nl.x-services.plugins.socialsharing" />
-    <icon src="res/mipmap-hdpi/ic_launcher.png" />
+    <icon src="res/mipmap-xxxhdpi/ic_launcher.png" />
     <platform name="android">
               <icon src="res/mipmap-hdpi/ic_launcher.png" density="hdpi" />
               <icon src="res/mipmap-mdpi/ic_launcher.png" density="mdpi" />
