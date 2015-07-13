@@ -12,13 +12,14 @@
     <gap:plugin name="org.apache.cordova.inappbrowser" />
     <gap:plugin name="de.appplant.cordova.plugin.email-composer" />
     <gap:plugin name="nl.x-services.plugins.socialsharing" />
-    <icon src="res/mipmap-xxxhdpi/ic_launcher.png" />
+    <icon src="res/drawable-xxxhdpi/ic_launcher.png" />
     <platform name="android">
-              <icon src="res/mipmap-hdpi/ic_launcher.png" density="hdpi" />
-              <icon src="res/mipmap-mdpi/ic_launcher.png" density="mdpi" />
-              <icon src="res/mipmap-xhdpi/ic_launcher.png" density="xhdpi" />
-              <icon src="res/mipmap-xxhdpi/ic_launcher.png" density="xxhdpi" />
-              <icon src="res/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
+              <icon src="res/drawable-ldpi/ic_launcher.png" density="ldpi" />
+              <icon src="res/drawable-hdpi/ic_launcher.png" density="hdpi" />
+              <icon src="res/drawable-mdpi/ic_launcher.png" density="mdpi" />
+              <icon src="res/drawable-xhdpi/ic_launcher.png" density="xhdpi" />
+              <icon src="res/drawable-xxhdpi/ic_launcher.png" density="xxhdpi" />
+              <icon src="res/drawable-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
     </platform>
     <preference name="DisallowOverscroll" value="true" />
     <preference name="webviewbounce" value="false" />
